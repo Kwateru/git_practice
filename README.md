@@ -1,2 +1,6 @@
-# git_practice
-gitコマンドの練習用に利用して下さい。
+# 練習するコマンド
+- git clone
+- git checkout
+- git add
+- git commit
+- git push
